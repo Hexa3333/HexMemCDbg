@@ -27,7 +27,7 @@ static unsigned int hexmemdbg_allocationCounter = 0;
 static unsigned int hexmemdbg_deallocationCounter = 0;
 
 #ifdef HEXMEMDBG_OUTPUT
-const const char* hexmemdbg_outputFileName = HEXMEMDBG_OUTPUT;
+const char* hexmemdbg_outputFileName = HEXMEMDBG_OUTPUT;
 #endif
 
 typedef enum
